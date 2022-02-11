@@ -8,6 +8,6 @@ You can have 13 max things copy in your keyboard using this tool.
 ## Usage :
  - `ctrl+c+f1-f12` to copy something
  - `ctrl+v+f1-f12` to past something
- - `ctrl+alt+c+f1-f12` and type a password to encrypt the text
- - `ctrl+alt+v+f1-f12` and type the password to past decrypt text
- - `ctrl+maj+f1-f12` and type text to (re)name the copy thing (default name is `f1` for text copy using ``ctrl+alt+c+f1`).
+ - `ctrl+alt+c+f1-f12` and type a password to encrypt the text (not yet started to develop)
+ - `ctrl+alt+v+f1-f12` and type the password to past decrypt text (not yet started to develop)
+ - `ctrl+maj+f1-f12` and type text to (re)name the copy thing (default name is `f1` for text copy using `ctrl+c+f1`).
