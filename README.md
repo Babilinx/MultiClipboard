@@ -1,5 +1,6 @@
 # Python MultiClipboard tool
 ### ! Not finished yet !
+### I have some issues with the hotkeys, if someone have an idea to fix it, type it in the comments !!
 ## What he does ?
 You can have 13 max things copy in your keyboard using this tool.
 ## Functionalities :
